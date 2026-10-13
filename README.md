@@ -6,7 +6,7 @@ Insta_Zone is a data-science project built for Exquisite Bliss Boutique to answe
 
 «When should we post to turn attention into actual bookings?»
 
-Instead of posting nail art randomly and hoping it performs, Insta_Zone connects Instagram content performance with booking data to discover patterns between when a post is published, how it is presented, and the bookings that follow.
+Instead of posting nail art randomly and hoping it performs, Insta_Zone connects Instagram content performance with booking data to uncover patterns between when a post is published, how it is presented, and the bookings that follow.
 
 ---
 

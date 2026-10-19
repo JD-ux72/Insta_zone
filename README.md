@@ -2,7 +2,7 @@
 
 Turning Instagram activity into booking intelligence.
 <br>
-<img src="https://github.com/JD-ux72/Insta_zone/Insta zone.jpg"/>
+<img scr="https://github.com/JD-ux72/Insta_zone/Insta zone.jpg"/>
 
 
 Insta_Zone is a data-science project built for Exquisite Bliss Boutique to answer a simple business question:
